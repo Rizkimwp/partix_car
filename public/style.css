@@ -1,0 +1,82 @@
+
+nav form .form-lg {
+    width: 596px;
+    height: 44px;
+}
+
+nav .btn-set {
+    width: 91px;
+    height: 38px;
+}
+
+nav #login {
+    background-color:#00ABAB;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav #login:hover {
+    background-color: #00ABAB;
+    color: #fff;
+  }
+
+  /* Button focus state */
+  nav #login:focus {
+    outline: 2px solid #00ABAB;
+    outline-offset: 2px;
+  }
+
+nav #signup {
+    border: 2px solid #00ABAB;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav #signup:hover {
+    background-color: #00ABAB;
+    color: #fff;
+  }
+
+  /* Button focus state */
+  nav #signup:focus {
+    outline: 2px solid #00ABAB;
+
+
+  }
+
+ body .bg-d9{
+    background-color: #D9D9D9;
+  }
+
+  p  a{
+    color: black;
+    text-decoration: none;
+  }
+
+  body #banner {
+    height: 270px;
+    background-image: url(asset/banner.png);
+
+  }
+
+  body #banner-2 {
+    margin-top: 156px;
+  }
+
+  body .banner-2 {
+    height: 150px;
+    background-image: url(asset/banner.png);
+
+  }
+
+  .container .select {
+    height: 132px;
+    background: #00ABAB;
+    justify-content: space-evenly;
+  }
+
+  .container .btn-go {
+    width: 114px;
+height: 47px;
+    background-color: #DDDEAB;
+  }
